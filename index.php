@@ -56,7 +56,7 @@
 <body>
 <h1>Cuestionario OSPF </h1>
 <div id="contenedor"></div>
-<button id="btnEnviar">Enviar</button>
+<button id="btnEnviar">Calificar</button>
 <div id="resumen"></div>
 
 <script>
