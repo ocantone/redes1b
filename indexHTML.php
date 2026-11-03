@@ -324,7 +324,7 @@
     <div class="resultado"></div>
   </div>
 
-  <button type="button" onclick="corregir()">Enviar</button>
+  <button type="button" onclick="corregir()">Calificar</button>
 
 </form>
 
